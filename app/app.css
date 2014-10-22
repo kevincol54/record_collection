@@ -1,0 +1,12 @@
+.header { 
+  background-image: url(http://cbsla.files.wordpress.com/2012/07/record-store-header.jpg);
+  color: white;
+  text-align: center;
+  height: 50px;
+  width: 100%;
+  padding-bottom: 20px;
+}
+
+.record-list {
+  margin-top: 20px;
+}

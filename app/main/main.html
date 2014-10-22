@@ -1,0 +1,17 @@
+<div class="header">
+  <h1>My Record Collection</h1>
+</div>
+
+<div class="record-list">
+  <form ng-submit="addRecord()">
+    <input type="text" ng-model="artistName" size="30" placeholder="Artist Name" style="height: 35px;">
+    <input type="text" ng-model="albumName" size="30" placeholder="Album Name" style="height: 35px;">
+    <input type="submit" class="btn btn-primary" value="Add Record">
+  </form>
+  <ul>
+      <li ng-repeat="records in records">
+        <h3>{{ records.artistName }} -- {{ records.albumName }}</h3>   
+      </li>
+  </ul>
+</div>
+

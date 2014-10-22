@@ -1,0 +1,14 @@
+# Record Collection App
+### Built using AngularJS
+
+Using 'best practices' oulined here: https://docs.google.com/document/d/1XXMvReO8-Awi1EZXAXS4PzDzdNvV6pGcuaF4Q9821Es/pub
+
+
+## Plans for app:
+
+* Users will be able to login
+* Users can view their record collections
+* Add new records
+* Create 'Wish Lists' for new albums
+* Integration of 3rd party API to attach album art to record lists
+* Index page (Landing Page) showing list of Top Record Collections 
