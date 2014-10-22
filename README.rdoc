@@ -1,11 +1,10 @@
-# Record Collection App
+==Record Collection App
 
-### Built using AngularJS
+===Built using AngularJS
 
 Using 'best practices' oulined here: https://docs.google.com/document/d/1XXMvReO8-Awi1EZXAXS4PzDzdNvV6pGcuaF4Q9821Es/pub
 
-
-## Plans for app:
+===Plans for app:
 
 * Users will be able to login
 * Users can view their record collections
